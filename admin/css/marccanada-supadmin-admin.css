@@ -1,0 +1,30 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .widefat .mcanada-col-name{
+     padding: 10px !important;
+ }
+ 
+ .heading_site{
+     margin-top: 30px;
+ }
+ 
+ .woocommerce-reports-wide .postbox .chart-with-sidebar .chart-sidebar{
+     width: 50% !important;
+     margin-left: unset !important;
+ }
+ 
+ .woocommerce-reports-wide .postbox .chart-with-sidebar{
+     padding: unset !important;
+ }
+ 
+ .woocommerce-reports-wide .postbox div.stats_range{
+     width: 50% !important;
+ }
+ 
+ .stats-inventory{
+     float: right;
+    margin-top: -103px !important;
+ }
